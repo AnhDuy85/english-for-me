@@ -1,0 +1,19 @@
+{
+  "name": "Lộ trình học tiếng Anh giao tiếp 12 tuần",
+  "short_name": "Lộ trình Anh",
+  "description": "Học tiếng Anh giao tiếp trong 3 tháng: lộ trình, từ vựng, hội thoại, luyện nói. Học được offline.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f1221",
+  "theme_color": "#3d5ae0",
+  "lang": "vi",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
